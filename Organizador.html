@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Organizador de Texto</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Organizador de Texto</h2>
+
+<p>Cole várias linhas e transforme tudo em uma única sequência.</p>
+
+<textarea
+id="entrada"
+placeholder="Cole várias linhas aqui..."></textarea>
+
+<button onclick="organizar()">
+Arrumar Texto
+</button>
+
+<h3 style="margin-top:25px;">Resultado</h3>
+
+<div id="resultado"></div>
+
+</div>
+
+<script>
+
+function organizar(){
+
+const texto=document.getElementById("entrada").value;
+
+const resultado=texto
+.split("\n")
+.map(linha=>linha.trim())
+.filter(linha=>linha!=="")
+.join(", ");
+
+document.getElementById("resultado").textContent=resultado;
+
+}
+
+</script>
+
+</body>
+</html>
