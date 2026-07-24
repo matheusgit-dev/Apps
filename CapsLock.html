@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Converter para Caixa Alta</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>Converter Texto para Caixa Alta</h2>
+
+<p>Converta rapidamente qualquer texto para letras maiúsculas.</p>
+
+<textarea
+id="texto"
+placeholder="Cole ou digite seu texto aqui"></textarea>
+
+<button onclick="converter()">
+Converter para MAIÚSCULAS
+</button>
+
+</div>
+
+<script>
+
+function converter(){
+
+const campo=document.getElementById("texto");
+
+campo.value=campo.value.toUpperCase();
+
+}
+
+</script>
+
+</body>
+</html>
