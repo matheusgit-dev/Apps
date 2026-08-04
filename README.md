@@ -4,8 +4,6 @@
 
 **A multifunctional desktop dashboard for productivity and daily task automation.**
 
-</div>
-
 ---
 
 ## 📌 About the Project
