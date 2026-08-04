@@ -61,3 +61,18 @@ O **Kingstool** é um ecossistema de ferramentas utilitárias desktop construíd
 - **[pyPDF](https://github.com/py-pdf/pypdf)** — Leitura e extração de texto de arquivos PDF.
 
 ---
+
+## Prints (v1.3, newer versions will be different; v1.3, versões novas vão ser diferentes.)
+<img width="1094" height="695" alt="image" src="https://github.com/user-attachments/assets/7811faa0-51cc-415d-a405-5964466fab7b" />
+<img width="1093" height="694" alt="image" src="https://github.com/user-attachments/assets/8d717dfa-2590-42ac-acf1-5c56b8729458" />
+<img width="1093" height="689" alt="image" src="https://github.com/user-attachments/assets/3915f99b-b43d-4b73-8f4a-e1e90c478c8e" />
+<img width="1093" height="691" alt="image" src="https://github.com/user-attachments/assets/f5ad7dae-20d2-4620-aae1-d090af703397" />
+<img width="1094" height="692" alt="image" src="https://github.com/user-attachments/assets/ac16087a-6e21-4cdd-8e29-4f9325d575a1" />
+<img width="1094" height="690" alt="image" src="https://github.com/user-attachments/assets/eef717bc-aa01-4958-a598-1dc3fb523bf6" />
+
+---
+
+## Support for languages comming soon!
+## Suporte para linguagens em breve!
+
+---
