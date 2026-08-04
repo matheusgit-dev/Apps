@@ -72,7 +72,7 @@ O **Kingstool** é um ecossistema de ferramentas utilitárias desktop construíd
 
 ---
 
-## Support for languages comming soon!
+## Support for languages coming soon!
 ## Suporte para linguagens em breve!
 
 ---
