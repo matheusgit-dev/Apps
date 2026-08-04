@@ -66,7 +66,7 @@ O **Kingstool** é um ecossistema de ferramentas utilitárias desktop construíd
 
 ---
 
-## Prints (v1.3, newer versions will be different; v1.3, versões novas vão ser diferentes.)
+## Screenshots/Prints (v1.3, newer versions will be different; v1.3, versões novas vão ser diferentes.)
 <img width="1094" height="695" alt="image" src="https://github.com/user-attachments/assets/7811faa0-51cc-415d-a405-5964466fab7b" />
 <img width="1093" height="694" alt="image" src="https://github.com/user-attachments/assets/8d717dfa-2590-42ac-acf1-5c56b8729458" />
 <img width="1093" height="689" alt="image" src="https://github.com/user-attachments/assets/3915f99b-b43d-4b73-8f4a-e1e90c478c8e" />
