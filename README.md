@@ -30,9 +30,11 @@
 - **[CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)** — Framework for modern Graphical User Interface (GUI).
 - **[pyPDF](https://github.com/py-pdf/pypdf)** — Reading and extracting text from PDF files.
 
-# Kingstool
+<div align="center">
 
-**Um dashboard multifuncional de produtividade e automação de tarefas cotidianas.**
+  # Kingstool
+
+  **Um dashboard multifuncional de produtividade e automação de tarefas cotidianas.**
 
 </div>
 
